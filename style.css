@@ -119,6 +119,7 @@ main .cd{
     text-align: center;
 }
 main .cd h2{
+    color: #4d162c;
     font-family: "Arial", "メイリオ";
     font-size: 35px;
     margin-bottom: 20px;
@@ -159,6 +160,7 @@ aside{
     
 }
 aside h2{
+    color: #4d162c;
     font-family: "Arial", "メイリオ";
     font-size: 35px;
     margin-bottom: 20px;
